@@ -1,0 +1,177 @@
+
+h1 {
+	color: rebeccapurple;
+}
+abbr {
+	color: red;
+}
+.all-browsers {
+  margin: 0;
+  padding: 5px;
+  background-color: #ff5959;
+}
+
+.all-browsers > h1, .browser {
+  margin: 10px;
+  padding: 5px;
+}
+
+.browser {
+  background: white;
+}
+
+.browser > h2, p {
+  margin: 4px;
+  font-size: 90%;
+}
+
+aside {
+	background-color: lightgray;
+	float: right;
+	width: 21%;
+	margin: 10px;
+	padding: 15px;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,th {
+	text-align: center;
+	border: 1px solid;
+	font-size: 20px;
+}
+
+cite {
+	font-style: italic;
+	color: red;
+}
+
+code {
+   background-color: #f1f1f1;
+   padding: 2px;
+   font-size: 105%;
+}
+
+datalist {
+  display: none;
+}
+
+dd {
+	margin-left: 80px;
+	font-size: 20px;
+}
+
+b {
+	font-size: 25px;
+}
+
+.del-and-ins {
+	font-size: 20px;
+}
+
+details {
+	border: 2px solid black;
+	font-size: 20px;
+}
+
+p{
+	font-size: 20px;
+}
+
+label {
+	font-size: 20px;
+}
+
+del,dfn {
+	color: red;
+}
+
+ins {
+	color: green;
+}
+
+dialog {
+	background: lightgray;
+	opacity: 0.9;
+	border-radius: 10px;
+}
+
+.servic_area {
+	float: left;
+	padding-right: 10px;
+	width: 100%;
+}
+.servic {
+	float: left;
+	display: block;
+	background: lightblue;
+	margin-bottom: 10px;
+	border-radius: 15px;
+	border: 1px outset red;
+	width: 350px;
+	height: 160px;
+	margin-inline: 20px;
+}
+.servic img {
+	float: left;
+	margin-top: 29px;
+	padding: 20px;
+}
+.servic p {
+	font-family: verdana;
+	font-size: 12px;
+	padding: 15px;
+	line-height: 18px;
+	margin: -1px;
+	text-align: justify;
+}
+
+fieldset {
+	background-color: gainsboro;
+	width: 40%;
+}
+
+legend {
+	background-color: gray;
+	color: white;
+	padding: 5px 10px;
+}
+
+input {
+	margin: 10px;
+}
+
+figcaption {
+	text-align: center;
+	font-size: 20px;
+	background-color: black;
+	color: white;
+	padding: 5px;
+}
+
+figure {
+	border: 1px solid black;
+	padding: 4px;
+	margin: auto;
+}
+
+footer {
+	border: 1px solid;
+	width: 30%;
+	border-radius: 10px;
+	background-color: lightgray;
+	padding: 5px;
+}
+
+.click {
+	float: right;
+}
+
+
+
+
+
